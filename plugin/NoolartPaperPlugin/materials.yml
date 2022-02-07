@@ -1,0 +1,344 @@
+﻿clay:
+    name: 'Песок'
+    Density: 1800
+    Magnetic: 500
+    Res: 700
+    Vp: 0.35
+    Vs: 0.2
+    Rad: 10
+green_terracotta:
+    name: 'Аргиллит'
+    Density: 2300
+    Magnetic: 900
+    Res: 10000
+    Vp: 3.9
+    Vs: 2.4
+    Rad: 25
+coal_block:
+    name: 'Газонасыщенный песчаник'
+    Density: 2150
+    Magnetic: 400
+    Res: 1000
+    Vp: 2.5
+    Vs: 1.5
+    Rad: 15
+cut_sandstone:
+    name: 'Нефтенасыщенный песчаник'
+    Density: 2250
+    Magnetic: 200
+    Res: 2000
+    Vp: 2.6
+    Vs: 1.6
+    Rad: 25
+netherrack:
+    name: 'Водонасыщенный песчаник'
+    Density: 2300
+    Magnetic: 300
+    Res: 500
+    Vp: 2.7
+    Vs: 1.7
+    Rad: 20
+emerald_block:
+    name: 'Магнетитовая руда'
+    Density: 3600
+    Magnetic: 450000
+    Res: 0.001
+    Vp: 4.5
+    Vs: 3.5
+    Rad: 100
+stone:
+    name: 'Гранит'
+    Density: 2590
+    Magnetic: 2000
+    Res: 5000000
+    Vp: 5.32
+    Vs: 3.2
+    Rad: 30
+polished_basalt:
+    name: 'Магнетит'
+    Density: 5180
+    Magnetic: 500000
+    Res: 0.001
+    Vp: 7.4
+    Vs: 4.2
+    Rad: 100
+granite:
+    name: 'Серебро'
+    Density: 10500
+    Magnetic: -2.38
+    Res: 0.000000015
+    Vp: 2.7
+    Vs: 1.44
+    Rad: 18
+gold_ore:
+    name: 'Золото'
+    Density: 19300
+    Magnetic: -3.44
+    Res: 0.0000002
+    Vp: 2.2
+    Vs: 1.07
+    Rad: 90
+polished_granite:
+    name: 'Железо'
+    Density: 7870
+    Magnetic: 400000
+    Res: 0.00000009
+    Vp: 5.1
+    Vs: 2.72
+    Rad: 80
+cyan_terracotta:
+    name: 'Медь'
+    Density: 8900
+    Magnetic: -0.96
+    Res: 0.000000016
+    Vp: 3.6
+    Vs: 1.92 
+    Rad: 20
+netherite_block:
+    name: 'Уран'
+    Density: 19100
+    Magnetic: 41
+    Res: 0.0029
+    Vp: 3.2
+    Vs: 1.70
+    Rad: 20000
+lapis_block:
+    name: 'Лазурит'
+    Density: 2400
+    Magnetic: 1
+    Res: 1000000
+    Vp: 3.9
+    Vs: 2.2
+    Rad: 0
+pink_terracotta:
+    name: 'Андезит'
+    Density: 2445
+    Magnetic: 28000
+    Res: 50000
+    Vp: 5.4
+    Vs: 2.73
+    Rad: 10
+light_gray_terracotta:
+    name: 'Диорит'
+    Density: 2885
+    Magnetic: 30000
+    Res: 4000000
+    Vp: 5.5
+    Vs: 3.35
+    Rad: 20
+gray_terracotta:
+    name: 'Каменная соль'
+    Density: 2170
+    Magnetic: -1.5
+    Res: 10000000000000
+    Vp: 4.55
+    Vs: 2.63
+    Rad: 3
+magenta_terracotta:
+    name: 'Гравелит'
+    Density: 2100
+    Magnetic: 1500
+    Res: 1000
+    Vp: 2
+    Vs: 1.5
+    Rad: 13
+light_blue_terracotta:
+    name: 'Каменный уголь'
+    Density: 1370
+    Magnetic: 12
+    Res: 150
+    Vp: 2.2
+    Vs: 1.7
+    Rad: 18
+diorite:
+    name: 'Базальт'
+    Density: 2850
+    Magnetic: 50000
+    Res: 300000 
+    Vp: 5.2
+    Vs: 3.1
+    Rad: 30
+lime_terracotta:
+    name: 'Глина'
+    Density: 1900
+    Magnetic: 1000
+    Res: 20
+    Vp: 1.2
+    Vs: 0.25
+    Rad: 25
+blue_terracotta:
+    name: 'Песчаник'
+    Density: 2400
+    Magnetic: 400
+    Res: 1000
+    Vp: 2.8
+    Vs: 1.8
+    Rad: 10
+black_terracotta:
+    name: 'Габбро'
+    Density: 3050
+    Magnetic: 60000
+    Res: 2000000
+    Vp: 6.38
+    Vs: 3.68
+    Rad: 30
+polished_diorite:
+    name: 'Известняк'
+    Density: 2800
+    Magnetic: 300
+    Res: 100000
+    Vp: 4.1
+    Vs: 2.1
+    Rad: 6
+andesite:
+    name: 'Кальцит'
+    Density: 2710
+    Magnetic: 1
+    Res: 10000000
+    Vp: 3.86
+    Vs: 2.13
+    Rad: 5
+white_terracotta:
+    name: 'Доломит'
+    Density: 2870
+    Magnetic: 30
+    Res: 500000
+    Vp: 4.9
+    Vs: 3.2
+    Rad: 5
+polished_andesite:
+    name: 'Силицит'
+    Density: 2650
+    Magnetic: 10
+    Res: 100000000
+    Vp: 5
+    Vs: 3.6
+    Rad: 4
+brown_terracotta:
+    name: 'Сланец'
+    Density: 2300
+    Magnetic: 3000
+    Res: 10000
+    Vp: 4
+    Vs: 2.5
+    Rad: 15
+diamond_block:
+    name: 'Алмаз'
+    Density: 3520
+    Magnetic: 0.0004
+    Res: 10000000000000
+    Vp: 16
+    Vs: 8
+    Rad: 5
+diamond_ore:
+    name: 'Кимберлит'
+    Density: 2800
+    Magnetic: 15
+    Res: 300
+    Vp: 3.9
+    Vs: 2.3
+    Rad: 11
+emerald_ore:
+    name: 'Берилл'
+    Density: 2600
+    Magnetic: 0.1
+    Res: 50000000000000
+    Vp: 6.5
+    Vs: 3.5
+    Rad: 22
+lapis_ore:
+    name: 'Изумруд'
+    Density: 2700
+    Magnetic: 0.1
+    Res: 50000000000000
+    Vp: 6.5
+    Vs: 3.5
+    Rad: 17
+smooth_stone:
+    name: 'Рубин'
+    Density: 4050
+    Magnetic: 1.8
+    Res: 100000000000000
+    Vp: 10.85
+    Vs: 6.37
+    Rad: 19
+coal_ore:
+    name: 'Корунд'
+    Density: 3900
+    Magnetic: 1.8
+    Res: 100000000000000
+    Vp: 10.85
+    Vs: 6.37
+    Rad: 30
+lava_flow:
+    name: 'Лава'
+    Density: 1540
+    Magnetic: 15000
+    Res: 40
+    Vp: 3
+    Vs: 0
+    Rad: 28
+obsidian:
+    name: 'Обсидиан'
+    Density: 2330
+    Magnetic: 5000
+    Res: 100000000
+    Vp: 5.8
+    Vs: 3.45
+    Rad: 7
+nether_wart_block:
+    name: 'Торф'
+    Density: 1550
+    Magnetic: 20
+    Res: 35
+    Vp: 1
+    Vs: 0.5
+    Rad: 10
+purple_terracotta:
+    name: 'Медная руда'
+    Density: 3870
+    Magnetic: -0.96
+    Res: 0.000000016
+    Vp: 3.6
+    Vs: 1.92 
+    Rad: 20
+orange_terracotta:
+    name: 'Железная руда'
+    Density: 3700
+    Magnetic: 400000
+    Res: 0.00000009
+    Vp: 5.1
+    Vs: 2.72
+    Rad: 80
+iron_block:
+    name: 'Серебряная руда'
+    Density: 5570
+    Magnetic: -2.38
+    Res: 0.000000015
+    Vp: 2.7
+    Vs: 1.44
+    Rad: 18
+ice:
+    name: 'Лед'
+    Density: 900
+    Magnetic: 0.0001
+    Res: 5000000
+    Vp: 3.7
+    Vs: 1.7
+    Rad: 13
+basalt:
+    name: 'Золотая руда'
+    Density: 2900
+    Magnetic: -3.44
+    Res: 0.0000002
+    Vp: 2.2
+    Vs: 1.07
+    Rad: 90
+ancient_debris:
+    name: 'Урановая руда'
+    Density: 6800
+    Magnetic: 41
+    Res: 0.0029
+    Vp: 3.2
+    Vs: 1.70
+    Rad: 10000
