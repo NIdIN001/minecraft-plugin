@@ -2,12 +2,15 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.ticker import MultipleLocator
 import inspect, os.path
-
+import argparse
 
 
     
 def graphic(name):
-
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--id")
+    args = parser.parse_args()
+    id = args.id
     filename = inspect.getframeinfo(inspect.currentframe()).filename
     path     = os.path.dirname(os.path.abspath(filename))
 
@@ -43,7 +46,7 @@ def graphic(name):
     ax.plot(data,depth,label=name,linewidth=3)
     plt.legend()
     plt.gca().invert_yaxis()
-    plt.savefig(path+ "\\imgs\\" + name+'.jpg', dpi=76.8)
+    plt.savefig(path+ "\\imgs\\" + id + name+'.jpg', dpi=76.8)
 
     print(name + " graphic is done")
             
